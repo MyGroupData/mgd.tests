@@ -1,0 +1,19 @@
+{
+  "name": "mgd.servicetest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "@types/mocha": "^5.2.5",
+    "restify": "^7.3.0",
+    "restify-clients": "^2.6.4"
+  }
+}
